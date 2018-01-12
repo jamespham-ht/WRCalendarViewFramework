@@ -1,0 +1,12 @@
+PODS:
+  - DateToolsSwift (2.0.3)
+
+DEPENDENCIES:
+  - DateToolsSwift
+
+SPEC CHECKSUMS:
+  DateToolsSwift: bf69bf9056d9e53c5c03f06e51f219b9b8b02f9e
+
+PODFILE CHECKSUM: eeb9053ef6912591ab6a6cd5e7ee7430a34b4bea
+
+COCOAPODS: 1.2.0

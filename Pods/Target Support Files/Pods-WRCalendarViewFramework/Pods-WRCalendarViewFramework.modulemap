@@ -1,0 +1,6 @@
+framework module Pods_WRCalendarViewFramework {
+  umbrella header "Pods-WRCalendarViewFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

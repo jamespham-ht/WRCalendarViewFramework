@@ -1,0 +1,4 @@
+framework module WRCalendarViewFramework {
+    header "WRCalendarViewFramework-Swift.h"
+    requires objc
+}
